@@ -1,0 +1,20 @@
+.education {
+  text-shadow: 3px 5px 2px #ff0000;
+  font-size: 35px;
+}
+.work {
+  font-size: 40px;
+  border: solid 5px;
+  border-radius: 6px 8px 12px;
+  border-color: blue;
+}
+.skills {
+  color: pink;
+}
+.highlight {
+  background-color: yellow;
+}
+.colors {
+  color: lightblue;
+  
+}
