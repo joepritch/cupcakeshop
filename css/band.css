@@ -8,7 +8,8 @@ h1  {
   font-size: 25px;
   text-shadow: 4px 4px 4px red;
   font-family: monospace;
-  background-color: rgba(255, 255, 255, 0.5)
+  background-color: rgba(255, 255, 255, 0.5);
+  border:solid 5px purple;
 }
 .sidebar  {
   width: 300px;
@@ -18,9 +19,13 @@ h1  {
   color: white;
   font-family: fantasy;
   font-size: 20px;
+  border:solid 5px pink;
+  padding:5px;
+  margin:10px;
 }
 .image  {
   float: right;
   width: 50%;
   height: 50%;
+  border: 10px groove red;
 }

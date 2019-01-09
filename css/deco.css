@@ -1,7 +1,11 @@
 .column {
-  width: 33%;
-  height: 33%;
+  width: 30%;
+  height: 30%;
   float: left;
+  border: 5px solid black;
+  padding: 5px;
+  margin: 5px;
+  background-color: lightblue;
 }
 img {
   width: 100%;
