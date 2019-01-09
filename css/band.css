@@ -1,0 +1,26 @@
+body{
+  background-image: url("../img/nbackground.jpg");
+}
+h1  {
+  text-align: center;
+}
+.text {
+  font-size: 25px;
+  text-shadow: 4px 4px 4px red;
+  font-family: monospace;
+  background-color: rgba(255, 255, 255, 0.5)
+}
+.sidebar  {
+  width: 300px;
+  height: 1000px;
+  float: left;
+  background-image: url(../img/sidebar.gif);
+  color: white;
+  font-family: fantasy;
+  font-size: 20px;
+}
+.image  {
+  float: right;
+  width: 50%;
+  height: 50%;
+}

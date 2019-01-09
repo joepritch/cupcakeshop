@@ -13,3 +13,7 @@ p.flashy  {
   font-style: italic;
   color: red;
 }
+.column {
+  width: 30%;
+  float:left;
+}
