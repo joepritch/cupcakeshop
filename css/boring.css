@@ -1,12 +1,6 @@
-h2.intro {
+.intro {
   font-family: cursive;
   text-shadow: 3px 3px 6px #0000ff;
-}
-p.intro {
-  font-style: italic;
-}
-img.intro {
-  border-color: #000fff;
-  border: 15px solid;
+  border: 15px red;
   border-style: groove;
 }
