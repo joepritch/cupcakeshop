@@ -1,0 +1,20 @@
+h1  {
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 15px;
+}
+.columns  {
+  width: 23%;
+  float: left;
+  background-color: lightblue;
+  border: solid 5px #4c3325;
+  margin: 5px;
+  border-radius: 5px;
+}
+.font  {
+  font-family: fantasy;
+}
+body  {
+  background-image: url("../img/tile.jpg");
+  text-align: center;
+}
