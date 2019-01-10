@@ -18,3 +18,13 @@ body  {
   background-image: url("../img/tile.jpg");
   text-align: center;
 }
+@media screen and (max-width:1000px) and (min-width:700px) {
+  body  {
+    background-image: url("../img/monkey.jpg");
+  }
+}
+@media screen and (max-width:480px) and (min-width:300px) {
+  body  {
+    background-image: url("../img/aardvark.jpg");
+  }
+}
